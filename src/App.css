@@ -1,0 +1,32 @@
+#root {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.bottom_btn {
+  display: flex;
+  justify-content: space-between;
+}
+
+.NotFoundPage {
+  text-align: center;
+  margin: 50px 0 0 0;
+  padding: 50px 20px;
+  border: 5px solid #ddd;
+}
+
+.NotFoundPage .img img {
+  width: 300px;
+  max-width: 100%;
+}
+
+.NotFoundPage .tit {
+  font-size: 30px;
+  padding: 0 0 20px;
+  font-weight: bold;
+}
+
+.NotFoundPage .btn_wrap {
+  padding: 20px 0 0;
+}

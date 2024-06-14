@@ -1,0 +1,24 @@
+.Header {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 0 20px 0;
+  margin-bottom: 20px;
+  border-bottom: 1px solid #ddd;
+}
+
+.Header .left_child {
+}
+
+.Header .title {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  font-size: 26px;
+  font-weight: bold;
+  transform: translate(-50%, calc(-50% - 10px));
+}
+
+.Header .left_child {
+}

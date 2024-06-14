@@ -1,0 +1,63 @@
+.btn {
+  font-size: 16px;
+  background-color: #eee;
+  border-radius: 5px;
+  outline: none;
+  border: none;
+  padding: 10px 18px;
+  text-align: center;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background-color: #dbdbdb;
+}
+
+.btn:active {
+  transform: scale(0.96);
+}
+
+.emotion_type_1 {
+  color: #fff;
+  background-color: #64c964;
+}
+
+.emotion_type_1:hover {
+  background-color: #59b359;
+}
+
+.emotion_type_2 {
+  color: #fff;
+  background-color: #9dd772;
+}
+
+.emotion_type_2:hover {
+  background-color: #8bbe64;
+}
+
+.emotion_type_3 {
+  color: #fff;
+  background-color: #fdce17;
+}
+
+.emotion_type_3:hover {
+  background-color: #e2b914;
+}
+
+.emotion_type_4 {
+  color: #fff;
+  background-color: #fd8446;
+}
+
+.emotion_type_4:hover {
+  background-color: #e77840;
+}
+
+.emotion_type_5 {
+  color: #fff;
+  background-color: #fd565f;
+}
+
+.emotion_type_5:hover {
+  background-color: #e44e56;
+}
